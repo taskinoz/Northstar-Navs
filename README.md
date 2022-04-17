@@ -27,7 +27,7 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | mp_lf_township | Untested | Some out of bounds areas need to be trimmed |
 | mp_lf_traffic | Untested | Some out of bounds areas need to be trimmed |
 | mp_lf_uma | Untested | Some out of bounds areas need to be trimmed |
-| mp_relic02 | Works | No optimisations have been made |
+| mp_relic02 | Good | Some areas might need to be removed on the roofs of the drop points and the surrounding mountains |
 | mp_rise | Good | Might need to test upper floors with titans |
 | mp_thaw | Ok | Needs to be optimised |
 | mp_wargames | Good | AI spawn out of bounds |
