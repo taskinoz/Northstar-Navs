@@ -10,7 +10,7 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | Map        | State           | Notes  |
 | ------------- |:-------------:| -----:|
 | mp_angel_city | Good |  |
-| mp_black_water_canal | Playable | Hasn't been optimised so AI spawn OOB |
+| mp_black_water_canal | Good | Quite optimised but untested |
 | mp_coliseum | Perfect | No nodes for attrition |
 | mp_colony02 | Good | Need to remove buildings for Titans |
 | mp_complex3 | Good |  |
