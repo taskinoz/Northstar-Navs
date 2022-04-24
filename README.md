@@ -10,24 +10,24 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | Map        | State           | Notes  |
 | ------------- |:-------------:| -----:|
 | mp_angel_city | Good |  |
-| mp_black_water_canal | Good | Quite optimised but untested |
+| mp_black_water_canal | Very Good | Interiors have been removed for Titans |
 | mp_coliseum | Perfect | No nodes for attrition |
 | mp_colony02 | Good | Need to remove buildings for Titans |
 | mp_complex3 | Good |  |
 | mp_crashsite3 | Ok | Still lots of unnecesary GEO and OOB |
-| mp_drydock | Good | Need to remove interiors for Titans |
+| mp_drydock | Very Good | Interiors have been removed for Titans |
 | mp_eden | Good | Needs to be cut down more |
 | mp_forwardbase_kodai | Good | AI sometimes get stuck |
 | mp_glitch | Ok | Roofs need to be removed and large sections for Titans need to be removed |
 | mp_grave | Good | Works well but AI get stuck in places |
-| mp_homestead | Good | Out of bounds areas need to be trimmed |
+| mp_homestead | Very Good | Removed out of bounds areas and pilot only |
 | mp_lf_deck | Untested | Some out of bounds areas need to be trimmed |
 | mp_lf_meadow | Untested | Some out of bounds areas need to be trimmed |
 | mp_lf_stacks | Untested | Some out of bounds areas need to be trimmed |
 | mp_lf_township | Untested | Some out of bounds areas need to be trimmed |
 | mp_lf_traffic | Untested | Some out of bounds areas need to be trimmed |
 | mp_lf_uma | Untested | Some out of bounds areas need to be trimmed |
-| mp_relic02 | Good | Some areas might need to be removed on the roofs of the drop points and the surrounding mountains |
+| mp_relic02 | Good | Removed most interiors for Titans but some of the surrounding mountains need removing|
 | mp_rise | Good | Might need to test upper floors with titans |
-| mp_thaw | Good | Removed out of bounds geo but roofs and rovk islands need to be optimised |
-| mp_wargames | Good | AI spawn out of bounds |
+| mp_thaw | Vary Good | Removed pilot only areas from titan navs |
+| mp_wargames | Very Good | Removed pits and interiors for Titans but the skip might be a problem |
