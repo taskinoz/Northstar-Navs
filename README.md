@@ -1,11 +1,29 @@
 # Northstar Navs
 Custom navmesh files to use with Titanfall 2 AI
 
-Create navmeshes with Warmist and Rexx's fork of the [Recast Dremo](https://github.com/r-ex/r2recast).
+Create navmeshes with Warmist and Rexx's fork of the [Recast Demo](https://github.com/r-ex/r2recast).
 
 Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efdd4d84f8f97aff806fdbb3853ac8).
 
 ## Maps
+
+**Perfect:**
+- Nothing more can be done
+
+**Very Good:**
+- Roofs have been removed so AI don't go up (Until we figure out jump points)
+- Titan navmeshes don't have pilot exclusive areas
+- Out of bounds areas have been removed
+
+**Good:**
+- Out of bounds areas
+- May have roofs removed
+
+**Ok:**
+- Has cut down geometry but still has out of bounds areas
+
+**Untested:**
+- Doesn't have nodes for attrition to test on and have just had them generated with no optimization
 
 | Map        | State           | Notes  |
 | ------------- |:-------------:| -----:|
