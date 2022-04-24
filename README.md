@@ -18,7 +18,7 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | mp_drydock | Very Good | Interiors have been removed for Titans |
 | mp_eden | Good | Needs to be cut down more |
 | mp_forwardbase_kodai | Good | AI sometimes get stuck |
-| mp_glitch | Ok | Roofs need to be removed and large sections for Titans need to be removed |
+| mp_glitch | Very Good | Removed roofs, extra areas out of bounds and pilot exclusive areas from Titan navs |
 | mp_grave | Good | Works well but AI get stuck in places |
 | mp_homestead | Very Good | Removed out of bounds areas and pilot only |
 | mp_lf_deck | Untested | Some out of bounds areas need to be trimmed |
