@@ -29,5 +29,5 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | mp_lf_uma | Untested | Some out of bounds areas need to be trimmed |
 | mp_relic02 | Good | Removed most interiors for Titans but some of the surrounding mountains need removing|
 | mp_rise | Good | Might need to test upper floors with titans |
-| mp_thaw | Vary Good | Removed pilot only areas from titan navs |
+| mp_thaw | Very Good | Removed pilot only areas from titan navs |
 | mp_wargames | Very Good | Removed pits and interiors for Titans but the skip might be a problem |
