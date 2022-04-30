@@ -30,7 +30,7 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | mp_angel_city | Good |  |
 | mp_black_water_canal | Very Good | Interiors have been removed for Titans |
 | mp_coliseum | Perfect | No nodes for attrition |
-| mp_colony02 | Very Good | Buildings removed from Titan navmesh |
+| mp_colony02 | Very Good | Roofs need to be removed for grunt AI |
 | mp_complex3 | Good |  |
 | mp_crashsite3 | Ok | Still lots of unnecesary GEO and OOB |
 | mp_drydock | Very Good | Interiors have been removed for Titans |
