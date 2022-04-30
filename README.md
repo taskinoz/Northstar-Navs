@@ -34,7 +34,7 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | mp_complex3 | Good |  |
 | mp_crashsite3 | Ok | Still lots of unnecesary GEO and OOB |
 | mp_drydock | Very Good | Interiors have been removed for Titans |
-| mp_eden | Good | Needs to be cut down more |
+| mp_eden | Vary Good | Roofs might need to be removed for AI |
 | mp_forwardbase_kodai | Good | AI sometimes get stuck |
 | mp_glitch | Very Good | Removed roofs, extra areas out of bounds and pilot exclusive areas from Titan navs |
 | mp_grave | Good | Works well but AI get stuck in places |
