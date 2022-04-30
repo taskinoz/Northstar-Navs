@@ -30,11 +30,11 @@ Export maps with Warmist's [python script](https://gist.github.com/warmist/c9efd
 | mp_angel_city | Good |  |
 | mp_black_water_canal | Very Good | Interiors have been removed for Titans |
 | mp_coliseum | Perfect | No nodes for attrition |
-| mp_colony02 | Good | Need to remove buildings for Titans |
+| mp_colony02 | Very Good | Roofs need to be removed for grunt AI |
 | mp_complex3 | Good |  |
 | mp_crashsite3 | Ok | Still lots of unnecesary GEO and OOB |
 | mp_drydock | Very Good | Interiors have been removed for Titans |
-| mp_eden | Good | Needs to be cut down more |
+| mp_eden | Very Good | Roofs might need to be removed for AI |
 | mp_forwardbase_kodai | Good | AI sometimes get stuck |
 | mp_glitch | Very Good | Removed roofs, extra areas out of bounds and pilot exclusive areas from Titan navs |
 | mp_grave | Good | Works well but AI get stuck in places |
